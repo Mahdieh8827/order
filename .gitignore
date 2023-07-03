@@ -1,5 +1,6 @@
 postgres-data/
 sql/
+.mvn/
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
