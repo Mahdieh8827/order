@@ -58,7 +58,7 @@ mvn spring-boot:run
 ```shell
 mvn test
    ```
-## Can Be improved
+## Can Be Improved
 * Please note that due to the absence of an OAuth2 server in my current implementation, I have left the relevant code commented out.<br/>
 Rest assured, I am committed to ensuring the safety of the data to integrate OAuth2 authentication.<br/>
 * Database Table improvement based on relation between Employee and Hobbies.<br/>
