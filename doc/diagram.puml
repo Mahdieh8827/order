@@ -1,0 +1,13 @@
+@startuml
+queue kafka
+box Process
+participant Application
+end box
+database Postgres
+
+activate Application
+Application -> Postgres: Save to table
+Application -> kafka: publish event
+deactivate Application
+
+@enduml
