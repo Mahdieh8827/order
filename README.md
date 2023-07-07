@@ -38,7 +38,7 @@ To build and run this application, you need to have the following installed:
 Follow these instructions to get the project up and running on your local machine.<br/>
 1.Clone the repository from GitHub:
 ```shell
-git clone https://github.com/
+git clone https://github.com/Mahdieh8827/takeaway.git
  ```
 2.Navigate to the project directory
 
